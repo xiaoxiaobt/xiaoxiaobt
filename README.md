@@ -49,7 +49,7 @@ My name is `Taige`, you can also call me `Tiger` 🐯
     </img>
     Aalto univeristy, major in
     <div class="tooltip">Macadamia<sup>?</sup>
-        <span class="tooltiptext">Machine Learning, Data Science and Artificial Intelligence 🌰</span>
+        <span class="tooltiptext" title="Macadamia">Machine Learning, Data Science and Artificial Intelligence 🌰</span>
     </div>
 </span>
 
