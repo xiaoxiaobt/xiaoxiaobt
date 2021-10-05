@@ -1,7 +1,7 @@
 # Hi there 👋
 My name is `Taige`, you can also call me `Tiger` 🐯
 
-I'm a Master's student at <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Aalto University, major in Machine Learning, Data Science and Artificial Intelligence (Macadamia)
+I'm a Master's student at <img height="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Aalto University, major in Machine Learning, Data Science and Artificial Intelligence (Macadamia)
 
 I'm currently working as a teaching assistant at the Department of Computer Science at Aalto.
 
