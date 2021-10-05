@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is `Taige`, you can also call me `Tiger` 🐯
+My name is Taige, you can also call me Tiger 🐯
 
 I'm a Master's student at Aalto University, major in [Machine Learning, Data Science and Artificial Intelligence (Macadamia 🌰)](https://into.aalto.fi/display/enccis/Machine+Learning%2C+Data+Science+and+Artificial+Intelligence+%28Macadamia%29+2020-2022)
 
