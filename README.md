@@ -1,4 +1,3 @@
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <style>
 /* Tooltip container */
 .tooltip {
@@ -42,7 +41,7 @@ sup {
 # Hi there 👋
 My name is `Taige`, you can also call me `Tiger` 🐯
 
-I am a Master's student at [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />] fsdf
+I am a Master's student at [<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />] fsdf
 
 <span>
     I am a Master's student at 
