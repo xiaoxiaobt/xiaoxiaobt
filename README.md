@@ -9,5 +9,5 @@ I'm currently working as a teaching assistant at the Department of Computer Scie
 
 [<img align="left" alt="taige.wang" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://taige.wang/)
 [<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/maildotru.svg" />](mailto:taige.wang@aalto.fi)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/taige-wang/)
+[<img align="left" alt="LinkedIn" width="22px" src="./linkedin.svg" />](https://www.linkedin.com/in/taige-wang/)
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.17.0/icons/telegram.svg" />](https://t.me/xiaoxiaobt)
