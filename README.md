@@ -2,7 +2,7 @@
 
 My name is Taige, you can also call me Tiger 🐯
 
-I'm a Master's student at Aalto University, major in [Machine Learning, Data Science and Artificial Intelligence (Macadamia 🌰)](https://www.aalto.fi/en/study-options/machine-learning-data-science-and-artificial-intelligence-computer-communication-and-information)
+I'm a fresh graduate of Aalto University, majoring in [Machine Learning, Data Science and Artificial Intelligence (Macadamia 🌰)](https://www.aalto.fi/en/study-options/machine-learning-data-science-and-artificial-intelligence-computer-communication-and-information)
 
 ### Connect with me:
 
